@@ -1,0 +1,11 @@
+id,question,expected_status,expected_value
+Q1,How many duplicate order rows are there?,ANSWER,2
+Q2,How many unique valid orders (with quantity and price) are there?,ANSWER,20
+Q3,What is the total revenue in INR across all currencies?,ANSWER,596330.0
+Q4,What is the total revenue in INR from Enterprise customers?,ANSWER,297730.0
+Q5,Which product generated the highest revenue in INR?,ANSWER,Laptop
+Q6,What was the total revenue in INR in February 2026?,ANSWER,248450.0
+Q7,For how many orders do payments disagree with the order amount?,ANSWER,2
+Q8,How many orders were placed on 03/04/2026?,AMBIGUOUS,
+Q9,What was the profit margin?,CANNOT_DETERMINE,
+Q10,What was the total revenue in the Mars region?,CANNOT_DETERMINE,
